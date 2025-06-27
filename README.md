@@ -1,4 +1,4 @@
-## Testing React Apps with React Testing Library – Learning Notes
+## Testing React Apps with React Testing Library
 
 ![Screenshot 2025-05-22 181332](https://github.com/user-attachments/assets/4a9fc596-98a5-41cd-ab69-8efb1246b39e)
 
@@ -26,3 +26,8 @@ Topics covered include:
 ### 💡 Why I Took This Course
 
 I took this course to strengthen my front-end testing skills and ensure that my React applications are **well-tested, reliable, and resilient to change**. The practical, real-world scenarios helped me understand how to structure tests that reflect how users interact with apps—improving both the confidence in my code and its long-term maintainability.
+
+### 📢 Note on Course Access
+Due to international sanctions in Iran, I was unable to access the official Code With Mosh platform directly. I obtained the course through a third-party distributor and completed it in full. While I do not have an official certificate, I carefully followed all course content and documented my learning here.
+
+For courses that included hands-on projects, the completed work is available in this repository. For others that were more theory-focused, I’ve included comprehensive notes, summaries, and all relevant materials as evidence of completion and understanding.
